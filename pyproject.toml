@@ -10,7 +10,7 @@ requires-python = ">=3.10"
 [project.urls]
 Repository = "https://github.com/mikesimone/ComfyUI-LoraManager-RecipeRunner"
 
-[comfy]
+[tool.comfy]
 PublisherId = "@mikesimone"
 DisplayName = "LoraManager Recipe Runner (WAN 2.2)"
 Icon = ""
